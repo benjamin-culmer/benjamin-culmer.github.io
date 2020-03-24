@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Benjamin Culmer
+title: About Me
 ---
 
-# About Me
 
 Hello World
 
