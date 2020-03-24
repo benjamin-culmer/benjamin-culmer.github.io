@@ -2,6 +2,7 @@
 layout: project
 title:  Robotic Car
 date:   2011-07-18 12:00:00
+logo: https://dbukjj6eu5tsf.cloudfront.net/dartmouthsports.com/images/2018/6/19/Ben_Culmer_Yle17_DA.jpg
 tags: [project]
 published: true
 ---
