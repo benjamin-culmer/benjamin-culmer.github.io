@@ -3,7 +3,7 @@ layout: default
 title: Benjamin Culmer
 ---
 
-# benjamin-culmer.github.io
+# About Me
 
 Hello World
 
