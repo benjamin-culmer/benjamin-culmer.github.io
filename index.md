@@ -4,7 +4,7 @@ title: About Me
 ---
 
 ![Chassis cad](/assets/img/Ben Culmer Football Headshot.png)
-{: height="36px" width="18px"}
+{: height="18px" width="9px"}
 
 
 Hello World
