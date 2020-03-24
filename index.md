@@ -1,3 +1,8 @@
+---
+layout: default
+title: Benjamin Culmer
+---
+
 # benjamin-culmer.github.io
 
 Hello World

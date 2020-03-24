@@ -1,1 +1,7 @@
+title: Benjamin Culmer
 theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
+
+production_url: http://benjamin-culmer.github.io
+github: [metadata]
