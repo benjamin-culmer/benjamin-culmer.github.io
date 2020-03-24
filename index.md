@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-![Chassis cad](/assets/img/Ben Culmer FOotball Headshot.png)
+![Chassis cad](/assets/img/Ben Culmer Football Headshot.png)
 
 Hello World
 
