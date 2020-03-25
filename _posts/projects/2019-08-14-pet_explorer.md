@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  PET Explorer
+title:  UPenn PET Explorer
 date:   2019-08-14 12:00:00
 logo: /assets/img/me with scanner.JPG
 tags: [research_assistant]
