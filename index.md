@@ -3,8 +3,7 @@ layout: default
 title: About Me
 ---
 
-![Chassis cad](/assets/img/Ben Culmer Football Headshot.png)
-{: height="18px" width="9px"}
+![Chassis cad](/assets/img/Ben Culmer Football Headshot.png){:height="50%" width="50%"}
 
 
 Hello World
