@@ -18,8 +18,7 @@ published: true
 I worked as an engineer at the University of Pennsylvania Perelman School of Medicine seven months last year. I worked in the radiology department under the only other engineer in the lab, who became my mentor. The group is building a new Positron Emission Tomography (PET) scanner, which will allow for a patient’s entire body to be scanned as well as increase the sensitivity of the scans. They are accomplishing this by utilizing seven concentric water cooled scanners lined up in a row. I was also tasked with designing a new method to mix radioactive isotopes into an artificial body to make testing of the scanner safer. 
     
 ![Chassis cad](/assets/img/Penn Scanner.JPG){:height="50%" width="50%"}
-{: style="text-align: center;"}
-{: style="text-orientation: mexed;"}
+{: style="text-align: center; transform: rotate(90deg)"}
     
 ## Testing
 Unfortunately, not all parts of the modules would always work. When a module failed, I had to determine if it was an individual tile that was defective, or the PCB stack on the module. I began by testing the status of entire modules. When there was a malfunction, I would take the module apart and test for where the malfunction had occurred. For both the tile and PCB stack, only one other person in the lab knew how to run that test. They both taught me the testing procedures using Linux, so I could troubleshoot the modules. Testing a single tile took 20 minutes, while testing a module, with 28 tiles, took only 30 minutes. As a result, it was more efficient to test the modules and replace faulty tiles. When a tile failed in a module, I would first swap the cables of two adjacent tiles, because removing a tile required almost 20 minutes. If the failure moved, I could replace the tile with one I had already tested to be good. If the failure stayed in the same location, I knew the PCB was faulty.
