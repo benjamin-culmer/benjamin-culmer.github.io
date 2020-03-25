@@ -18,7 +18,7 @@ Within my group of four people, I was in charge of our drivetrain, chassis, and 
 
 ![Chassis cad](/assets/img/final cad.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
-![Chassis cad](/assets/img/chassis cad.png){:height="50%" width="50px"}
+![Chassis cad](/assets/img/chassis cad.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
 ![Chassis cad](/assets/img/gear box.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
