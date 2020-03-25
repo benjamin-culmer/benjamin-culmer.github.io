@@ -25,20 +25,20 @@ Within my group of four people, I was in charge of our drivetrain, chassis, bill
 ![Chassis cad](/assets/img/final cad.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
 Final CAD assembly of final robot
-&nbsp
+
 
 ![Chassis cad](/assets/img/chassis cad.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
-CAD for my chassis and drivetrain
-&nbsp
+CAD for chassis and drivetrain
+
 ![Chassis cad](/assets/img/gear box.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
 Image of right gear box
-&nbsp
+
 ![Chassis cad](/assets/img/gear box cad.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
 CAD of right gear box
-&nbsp
+
 ![Chassis cad](/assets/img/drawing example.png)
 {: style="text-align: center;"}
 Drawing of the side wall of the chassis signed off by shop instructor
