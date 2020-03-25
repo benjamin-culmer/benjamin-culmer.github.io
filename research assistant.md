@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Assitant
+title: Research Assistant
 ---
 {% for post in site.posts %}
 {% if post.tags contains "research assistant" %}
