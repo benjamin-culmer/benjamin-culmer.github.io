@@ -8,11 +8,11 @@ published: true
 ---
 
 ## Highlights
--I assembled and wired an entire PET scanner from the ground up to learn about the system and build the product
--I dagnosed and repaired unknown defects in compontents through toruble shooting and testing using Linux
--I developed procedures and produced documentation for manufacturing and testing the Explorer
--I iinstructed others on manufacturing procedures, defined tasks, and delegated work
--I engineered and manufactured a method for safely mixing radioactive materials in a phantom using SolidWorks
+- I assembled and wired an entire PET scanner from the ground up to learn about the system and build the product
+- I dagnosed and repaired unknown defects in compontents through toruble shooting and testing using Linux
+- I developed procedures and produced documentation for manufacturing and testing the Explorer
+- I iinstructed others on manufacturing procedures, defined tasks, and delegated work
+- I engineered and manufactured a method for safely mixing radioactive materials in a phantom using SolidWorks
 
 ## Overview
 I worked as an engineer at the University of Pennsylvania Perelman School of Medicine seven months last year. I worked in the radiology department under the only other engineer in the lab, who became my mentor. The group is building a new Positron Emission Tomography (PET) scanner, which will allow for a patient’s entire body to be scanned as well as increase the sensitivity of the scans. They are accomplishing this by utilizing seven concentric water cooled scanners lined up in a row. I was also tasked with designing a new method to mix radioactive isotopes into an artificial body to make testing of the scanner safer. 
