@@ -3,20 +3,20 @@ layout: project
 title:  PET Explorer
 date:   2019-08-14 12:00:00
 logo: /assets/img/Penn Scanner.JPG
-tags: [project]
+tags: [research_assistant]
 published: true
 ---
 
 ## Overview
-	I worked as an engineer at the University of Pennsylvania Perelman School of Medicine seven months last year. I worked in the radiology department under the only other engineer in the lab, who became my mentor. The group is building a new Positron Emission Tomography (PET) scanner, which will allow for a patient’s entire body to be scanned as well as increase the sensitivity of the scans. They are accomplishing this by utilizing seven concentric water cooled scanners lined up in a row. I was also tasked with designing a new method to mix radioactive isotopes into an artificial body to make testing of the scanner safer. 
+I worked as an engineer at the University of Pennsylvania Perelman School of Medicine seven months last year. I worked in the radiology department under the only other engineer in the lab, who became my mentor. The group is building a new Positron Emission Tomography (PET) scanner, which will allow for a patient’s entire body to be scanned as well as increase the sensitivity of the scans. They are accomplishing this by utilizing seven concentric water cooled scanners lined up in a row. I was also tasked with designing a new method to mix radioactive isotopes into an artificial body to make testing of the scanner safer. 
     
-![Chassis cad](/assets/img/Penn Scanner.JPG)
-![Chassis cad](/assets/img/Module.png)
-![Chassis cad](/assets/img/stir bar.PNG)
+![Chassis cad](/assets/img/Penn Scanner.JPG){:height="50%" width="50%"}
+![Chassis cad](/assets/img/Module.png){:height="50%" width="50%"}
+![Chassis cad](/assets/img/stir bar.PNG){:height="50%" width="50%"}
     
 ## Testing
 Unfortunately, not all parts of the modules would always work. When a module failed, I had to determine if it was an individual tile that was defective, or the PCB stack on the module. I began by testing the status of entire modules. When there was a malfunction, I would take the module apart and test for where the malfunction had occurred. For both the tile and PCB stack, only one other person in the lab knew how to run that test. They both taught me the testing procedures using Linux, so I could troubleshoot the modules. Testing a single tile took 20 minutes, while testing a module, with 28 tiles, took only 30 minutes. As a result, it was more efficient to test the modules and replace faulty tiles. When a tile failed in a module, I would first swap the cables of two adjacent tiles, because removing a tile required almost 20 minutes. If the failure moved, I could replace the tile with one I had already tested to be good. If the failure stayed in the same location, I knew the PCB was faulty.
-	Before my arrival, there was a preliminary test to check the function of a PCB. After a new shipment of boards arrived, I discovered that over 50 percent were faulty. We stored these with the boards that had also been deemed faulty. After explaining the situation I discovered to the lead electrical engineer, he gave me a program that allowed me to rewrite the firmware on the PCBs. I was then able to fix 26 out of 28 PCBs, each of which cost five thousand dollars. 
+Before my arrival, there was a preliminary test to check the function of a PCB. After a new shipment of boards arrived, I discovered that over 50 percent were faulty. We stored these with the boards that had also been deemed faulty. After explaining the situation I discovered to the lead electrical engineer, he gave me a program that allowed me to rewrite the firmware on the PCBs. I was then able to fix 26 out of 28 PCBs, each of which cost five thousand dollars. 
 
 ## Writing and Teaching
 As the only person building and testing the parts of the scanner, I developed a knowledge of the system that no one else had. As a result, it was crucial that I wrote down all of the knowledge I had acquired before I returned to school. The knowledge I had gained was the entirety of the test procedures, as I was the only person to run these tests at a full scale of production, and small tricks that sped up the manufacturing process. I rewrote a majority of the procedures and wrote brand new procedures on the testing of tiles, modules, and PCBs. I also trained my replacements and learned from their interpretations of my instructions on how to describe processes more clearly. 
