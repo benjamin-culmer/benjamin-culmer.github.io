@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Personal
-tag: personal
 ---
 
 ![Benjamin Culmer Football Headshot](/assets/img/Ben Culmer Football Headshot.png){:  height="37.5%" width="37.5%"}
