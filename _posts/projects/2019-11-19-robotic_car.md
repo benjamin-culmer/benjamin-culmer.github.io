@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Robotic Car
+title:  Engs 76: Robotic Car
 date:   2019-11-19 12:00:00
 logo: /assets/img/final.png
 tags: [project]
