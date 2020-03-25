@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-![Benjamin Culmer Football Headshot](/assets/img/Ben Culmer Football Headshot.png){:  height="25%" width="25%"}
+![Benjamin Culmer Football Headshot](/assets/img/Ben Culmer Football Headshot.png){:  height="37.5%" width="37.5%"}
 {: style="text-align: center;"}
 
 
