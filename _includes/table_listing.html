@@ -1,0 +1,17 @@
+<table>
+  <tbody>
+{% for post in site.posts -%}
+{%- if post.tags contains page.tag -%}
+    <tr>
+{%- if post.logo_options -%}
+      <td><a href="{{ post.url }}"><img src="{{ post.logo }}" alt="{{ post.title }}" {{ post.logo_options }}/></a></td>
+{%- else -%}
+      <td><a href="{{ post.url }}"><img src="{{ post.logo }}" alt="{{ post.title }}" /></a></td>
+{% endif -%}
+      <td><h2><a href="{{ post.title }}">{{ post.date | date: "%Y" }}: {{ post.title }}</a></h2></td>
+    </tr>
+{% endif -%}
+{%- endfor %}
+  </tbody>
+</table>
+

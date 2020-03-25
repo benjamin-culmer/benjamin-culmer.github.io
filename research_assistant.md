@@ -1,17 +1,7 @@
 ---
 layout: default
 title: Research Assistant
+tag: research_assistant
 ---
-{% for post in site.posts %}
-{% if post.tags contains "research_assistant" %}
-## [{{ post.date | date: "%Y" }}: {{ post.title}}]({{ post.url }}) 
 
-{% if post.logo_options %}
-[![{{ post.title }}]({{ post.logo }}){:{{ post.logo_options }}} ]({{ post.url }}){: style=left, {{ post.logo_options }} }
-{: style="text-align: center; " }
-{% else %}
-[![{{ post.title }}]({{ post.logo }})]({{ post.url }})
-{: style="text-align: center; " }
-{% endif %}
-{% endif %}
-{% endfor %}
+{% include listing.html %}
