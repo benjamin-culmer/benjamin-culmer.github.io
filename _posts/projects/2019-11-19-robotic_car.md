@@ -17,17 +17,28 @@ This past year, I took a course in machine engineering. The goal of this course 
     
 ![Chassis cad](/assets/img/final.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
+Complete final bot for competition
     
 ## My Work
 Within my group of four people, I was in charge of our drivetrain, chassis, bill of materials, and final complete SolidWorks assembly. I was inspired by a tank design which I thought would allow our vehicle to cut across the sharp turns in the bridge. Our design was one of a kind and worked as designed. It also was able to drive over obstacles while other groups’ vehicles could not. One of the issues with this design was gearing down the motor. To keep things as elegant as possible, I designed one part that would hold all the gears and motor in place. Finally, I had an issue with the chain falling off at high speeds. I added an adjustable chain tensioner, which solved the problem. I tried to keep our chassis as open and modular as possible to allow other components to be easily added. The acquisition mechanism mounted to the front through the walls of the chassis. The scissor lift and the storage box were mounted in the open center. I realized we had a lot of open space above the gearbox and used that to create a box to store all electronics. Finally, we realized that, when lifting our scissor lift, it was too narrow and would tilt forward. To control this, I came up with the idea of adding a seperate continuous servo to the rear, which was attached to the scissor lift with a string, allowing us to pull back on the scissor lift to prevent it from tilting forward and jamming. In the final competition, I controlled our vehicle, placing third out of ten. 
 
 ![Chassis cad](/assets/img/final cad.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
+Final CAD assembly of final robot
+&nbsp
+
 ![Chassis cad](/assets/img/chassis cad.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
+CAD for my chassis and drivetrain
+&nbsp
 ![Chassis cad](/assets/img/gear box.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
+Image of right gear box
+&nbsp
 ![Chassis cad](/assets/img/gear box cad.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
+CAD of right gear box
+&nbsp
 ![Chassis cad](/assets/img/drawing example.png)
 {: style="text-align: center;"}
+Drawing of the side wall of the chassis signed off by shop instructor
