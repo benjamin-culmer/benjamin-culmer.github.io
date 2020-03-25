@@ -2,7 +2,7 @@
 layout: project
 title:  PET Explorer
 date:   2019-08-14 12:00:00
-logo: /assets/img/me with scanner.JPG
+logo: /assets/img/Penn Scanner_rotated.JPG
 tags: [research_assistant]
 published: true
 ---
