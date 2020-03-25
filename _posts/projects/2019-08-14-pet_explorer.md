@@ -3,6 +3,7 @@ layout: project
 title:  UPenn PET Explorer
 date:   2019-08-14 12:00:00
 logo: /assets/img/me with scanner.JPG
+logo_options: height="60%" width="60%"
 tags: [research_assistant]
 published: true
 ---
