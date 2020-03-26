@@ -18,10 +18,5 @@ I also loved and will miss the challenges that playing football as a student ath
 ## Free Time
 Some of my passions include: nature, music, and cars. I see myself as an outdoorsman; While growing up, I spent a majority of my time out in the woods biking and fishing. I plan on continuing these activities as well as adding camping to the list. I am also passionate about music. I love listening to music and admire the complexities in songs. I grew up playing the cello, but taught myself the electric bass during high school. I continue to play the bass and love to play classic rock. Finally, I love cars. Once I am out of college, I plan on working on my own cars and driving on race tracks. 
 
-
-![fishing](/assets/img/fishing.JPG){:  height="37.5%" width="37.5%"}
-{: style="text-align: center;"}
-
-
 ![biking](/assets/img/biking.HEIC){:  height="37.5%" width="37.5%"}
 {: style="text-align: center;"}
