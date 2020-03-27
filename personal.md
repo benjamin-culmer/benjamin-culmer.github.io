@@ -20,3 +20,7 @@ Some of my passions include: nature, music, and cars. I see myself as an outdoor
 
 ![biking](/assets/img/biking.png){:  height="37.5%" width="37.5%"}
 {: style="text-align: center;"}
+
+
+![fishiing](/assets/img/fishing_rotated.JPG){:  height="38.5%" width="37.5%"}
+{: style="text-align: center;"}
