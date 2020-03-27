@@ -21,7 +21,12 @@ Some of my passions include: nature, music, and cars. Growing up, I spent a majo
 {: style="text-align: center;"}
 
 
-![fishiing](/assets/img/fishing_rotated.JPG){:  height="38.5%" width="37.5%"}
+![fishing](/assets/img/fishing_rotated.JPG){:  height="38.5%" width="37.5%"}
 {: style="text-align: center;"}
 
-I am also passionate about music. I love listening to music and admire the complexities in songs. Growing up, I played the cello, but taught myself the electric bass during high school. I continue to play the bass and love to play classic rock. Finally, I love cars and watching Formula 1. After I graduate college, I plan on working on my own car and driving on race tracks. 
+I am also passionate about music. I love listening to music and admire the complexities in songs. Growing up, I played the cello, but taught myself the electric bass during high school. I continue to play the bass and love to play classic rock.
+
+![bass](/assets/img/bass.jpeg){:  height="38.5%" width="37.5%"}
+{: style="text-align: center;"}
+
+Finally, I love cars and watching Formula 1. After I graduate college, I plan on working on my own car and driving on race tracks. 
