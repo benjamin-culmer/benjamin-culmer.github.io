@@ -42,7 +42,7 @@ One module being tested for the Explorer
 ![Chassis cad](/assets/img/Module.png){:height="75%" width="75%"}
 {: style="text-align: center;"}
 
-Insert to increase turbulance in the mixing project
+Insert to increase turbulence in the mixing project
 {: style="text-align: center;"}
 ![Chassis cad](/assets/img/stir bar.PNG){:height="75%" width="75%"}
 {: style="text-align: center;"}
