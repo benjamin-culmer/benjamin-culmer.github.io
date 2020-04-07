@@ -37,7 +37,7 @@ I was commended on my attention to detail as I was able to catch multiple defect
 My biggest take away from this experience was my CAD knowledge. During my time at Penn, I taught myself how to use SolidWorks. I had used it a small amount at Dartmouth, but had very little working knowledge. My boss at Penn taught me how to think when using CAD. He taught me to always keep the design as simple as possible while making it elegant. After returning to Dartmouth, I noticed that my parts were very easy to modify when they needed changes. When performing finite element analysis on my parts, we seldom ran into errors in testing their strength, but, for parts designed by piers, we often ran into issues when creating the mesh of the part. 
 While at Penn, I was tasked with devising a method to mix a radioactive solution into a large tube of water while keeping the entire system enclosed to reduce the risk of spilling the solution. Their method at the time was to add the solution and stir it with a stick. The issue here is that, when removing the stick, they risked spilling some radioactive solution. My solution to the problem was to add a stir bar to the solution and a modified cap to increase turbulence within the container to facilitate mixing. 
 
-One module being tested for the explorer
+One module being tested for the Explorer
 {: style="text-align: center;"}
 ![Chassis cad](/assets/img/Module.png){:height="75%" width="75%"}
 {: style="text-align: center;"}
