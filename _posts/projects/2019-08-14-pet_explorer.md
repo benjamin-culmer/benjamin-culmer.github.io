@@ -20,7 +20,7 @@ I worked as an engineer at the University of Pennsylvania Perelman School of Med
     
 One complete ring of the Explorer
 {: style="text-align: center;"}
-![Chassis cad](/assets/img/Penn Scanner_rotated.JPG){:height="50%" width="50%"}
+![Chassis cad](/assets/img/Penn Scanner.JPG){:height="50%" width="50%"}
 {: style="text-align: center;"}
     
 ## Testing

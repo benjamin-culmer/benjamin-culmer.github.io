@@ -21,7 +21,7 @@ Some of my passions include: nature, music, and cars. Before college, I spent a 
 {: style="text-align: center;"}
 
 
-![fishing](/assets/img/fishing_rotated.JPG){:  height="38.5%" width="37.5%"}
+![fishing](/assets/img/fishing.JPG){:  height="38.5%" width="37.5%"}
 {: style="text-align: center;"}
 
 I am also passionate about music. I love listening to music and admire the complexities in songs. Growing up, I played the cello, and taught myself the electric bass during high school. I continue to play the bass and love to play classic rock.
