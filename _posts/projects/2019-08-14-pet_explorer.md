@@ -10,7 +10,7 @@ published: true
 
 ## Highlights
 - Assembled and wired an entire PET scanner from the ground up to learn about the system and build the product
-- Dagnosed and repaired unknown defects in compontents through toruble shooting and testing using Linux
+- Diagnosed and repaired unknown defects in compontents through trouble shooting and testing using Linux
 - Developed procedures and produced documentation for manufacturing and testing the Explorer
 - Instructed others on manufacturing procedures, defined tasks, and delegated work
 - Engineered and manufactured a method for safely mixing radioactive materials in a phantom using SolidWorks
