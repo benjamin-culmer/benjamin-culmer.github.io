@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  Stirling Engine
-date:   2018-08-01 12:00:00
+date:   2018-06-01 12:00:00
 logo: /assets/img/sterling.jpeg
 tags: [project]
 published: true
