@@ -25,10 +25,10 @@ After the final presentation of all games, our professor asked if he could keep 
 
 Circuit Board
 {: style="text-align: center;"}
-![Chassis cad](/assets/img/Board annotated.jpeg){:height="50%" width="50%"}
+![Chassis cad](/assets/img/Board annotated.jpeg){:height="75%" width="75%"}
 {: style="text-align: center;"}
 
 Testbench for Ball Logic
 {: style="text-align: center;"}
-![Chassis cad](/assets/img/testbench.png){:height="50%" width="50%"}
+![Chassis cad](/assets/img/testbench.png){:height="100%" width="100%"}
 {: style="text-align: center;"}
