@@ -23,5 +23,5 @@ our engines competed to find their efficiency and tolerances.
 
 Sirling Engine
 {: style="text-align: center;"}
-![Chassis cad](/assets/img/stering.jpeg){:height="75%" width="75%"}
+![Chassis cad](/assets/img/sterling.jpeg){:height="75%" width="75%"}
 {: style="text-align: center;"} 
