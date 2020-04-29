@@ -43,7 +43,7 @@ CAD of right gear box
 ![Chassis cad](/assets/img/gear box cad.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
 
-Drawing of the side wall of the chassis signed off by shop instructor
+Drawing of the sidewall of the chassis signed off by shop instructor
 {: style="text-align: center;"}
 ![Chassis cad](/assets/img/drawing example.png)
 {: style="text-align: center;"}
