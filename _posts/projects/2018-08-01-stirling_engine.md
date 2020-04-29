@@ -21,7 +21,7 @@ our engines competed to find their efficiency and tolerances.
 
 
 
-Stirling Engine
+My hand built Stirling Engine
 {: style="text-align: center;"}
 ![Chassis cad](/assets/img/sterling.jpeg){:height="75%" width="75%"}
 {: style="text-align: center;"} 
