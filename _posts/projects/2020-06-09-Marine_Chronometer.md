@@ -35,12 +35,12 @@ Final Marine Chronometer On Test Setup
 {: style="text-align: center;"}
 
 ## My Work
-From the start, I was voted my groups team leader. As a result, I handled communication with the TAs,
+From the start, I was voted my group's team leader. As a result, I handled communication with the TAs,
 work delegation, troubleshooting clock issues, and managing the overall assembly. Our overall design focused on modularity
 and simplicity; all parts were either press fit or snapped together through proper tolerancing. We wanted our clock as modular as possible allowing the sub-assemblies made by different people to be easily combined in the final fabrication.
 The final design was unique in that all modules were concentric and stacked one above each other with a single input and
 a single output between each module. The innovation coming from the methods of translating motion across the entire design. 
-Because modules could only interact with those above and below, their order was crucial. I created the ordering of our complete assembly, allowing each module run only off the modules directly connected to it. This allowed us to create an 
+Because modules could only interact with those above and below, their order was crucial. I created the ordering for our complete assembly, allowing each module to run only off the modules directly connected to it. This allowed us to create an 
 aesthetically pleasing clock that was compact and easily displayable.
 
 Escapement Module
@@ -54,12 +54,11 @@ Main Spring Assembly
 {: style="text-align: center;"}
 
 When it came to designing the parts of the clock, we divided the clock into five different parts: the oscillator, 
-escapement, gear box, main spring, and display. three of our group members worked on the gear train, while my partner and I worked on the rest of the clock. 
+escapement, gear box, main spring, and display. Three of our group members worked on the gear train, while my partner and I worked on the rest of the clock. 
 I designed our oscillating mass module, the mechanism which controls the rate of ticking in the clock. I also designed our 
-main spring, which powered the clock, and then became instrumental to the display drastically simplifying our design. Rather 
-than creating an entire display module which would have to connect to the gear box and travel around the main spring,
+main spring, which powered the clock, and then became instrumental to the display, drastically simplifying our design. Rather than creating an entire display module which would have to connect to the gear box and travel around the main spring,
 I realized that we could simply connect the output of the main spring, which was controlled by the gear box,
-to an encoder wheel, creating the proper displayed time in an extremely simplistic manner. 
+to an encoder wheel, creating the proper displayed time in an extremely simple manner. 
 
 CAD Assembly
 {: style="text-align: center;"}
