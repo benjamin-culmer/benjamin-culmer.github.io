@@ -25,8 +25,7 @@ web based CAD service. The goal of the competition was to build a working chrono
 The clocks were then tested for their ability to cope with the seas by running on the print 
 bed of our 3D printers with gcode written by the instructors to sway the chronometer back and forth. They were tested for
 how long they could run on the bed as well as their precision during the run. Data was acquired via an arduino and encoder 
-(a device sending a signal via the arduino every time its light source is uncovered). We were able to tune our clock using 
-this encoder, designing a wheel would uncover the light source ever second). In the end our group received an award
+(a device sending a signal via the arduino every time its light source is uncovered). We were able to tune our clock's output using this encoder, by designing a wheel that would uncover the light source every second. In the end our group received an award
 for designing a chronometer with the “most risky, cutting edge, and out of the box design innovations”.
 
 
