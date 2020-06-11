@@ -11,7 +11,7 @@ published: true
 ## Highlights
 - Designed a complete working marine chronometer in xDesign (CAD) made entirely of group designed parts
 - 3D printed the marine chronometer using PLA, achieving ±1 second precision over 10 seconds
-- Voted group leader: divided work, assigned tasks, created time lines for the group, and managed overall assembly
+- Voted group leader: Communicated with TAs, divided work, assigned tasks, troubleshot issues, and managed overall assembly
 - Created the overall design of the chronometer, building a modular aesthetically pleasing displayable product
 - Earned an award for designing a chronometer with the “most risky, cutting edge, and out of the box design innovations”
 
@@ -36,8 +36,8 @@ Final Marine Chronometer On Test Setup
 {: style="text-align: center;"}
 
 ## My Work
-From the start, I was voted my groups team leader. As a result, I was in charge of communication with the instructors, TAs,
-work delegation, timeline management, and managed the overall assembly. Our overall design focused on modularity
+From the start, I was voted my groups team leader. As a result, I was in charge of communication with the TAs,
+work delegation, troubleshooting clock issues, and managing the overall assembly. Our overall design focused on modularity
 and simplicity; all parts were either press fit or snapped together through proper tolerancing. We wanted our clock as modular as possible allowing the sub-assemblies made by different people to be easily combined in the final fabrication.
 The final design was unique in that all modules were concentric and stacked one above each other with a single input and
 a single output between each module. The innovation coming from the methods of translating motion across the entire design. 
