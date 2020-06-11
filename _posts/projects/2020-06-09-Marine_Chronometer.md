@@ -15,6 +15,8 @@ published: true
 - Created the overall design of the chronometer, building a modular aesthetically pleasing displayable product
 - Earned an award for designing a chronometer with the “most risky, cutting edge, and out of the box design innovations”
 
+Video Demonstration of our Marine Chronometer Made by my Partner Juan Miche Rosales
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WmkQ7Sj34JA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Overview
 For my final term, I took a graduate course where I was part of a group of five engineers tasked with designing and byilding
@@ -45,14 +47,6 @@ Because modules could only interact with those above and below, their order was 
 ordering modules so that each could run souly off the modules directly connected to it. This allowed us to create an 
 asthetically pleasing clock that was compact and easily desplayable.
 
-When it came to designing the parts of the clock, I divided the clock into five different parts: the oscillator, 
-escapement, gear box, main spring, and display. three of our group members worked on the gear train, while my partner and I worked on the rest of the clock. 
-I designed our oscillating mass module, the mechanism which controls the rate of ticking in the clock. I also designed our 
-main spring, which powered the clock, and then became instrumental to the display drastically simplifying our design. Rather 
-than creating an entire display module which would have to connect to the gear box and travel around the main spring,
-I realized that we could simply connect the output of the main spring, which was controlled by the gear box,
-to an encoder wheel, creating the proper displayed time in an extremly simplistic manner. 
-
 CAD Assembly
 {: style="text-align: center;"}
 ![Chassis cad](/assets/img/assembly.png){:height="50%" width="50%"}
@@ -63,11 +57,18 @@ Escapement Module
 ![Escapement_Module](/assets/img/oscillator.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
 
+When it came to designing the parts of the clock, I divided the clock into five different parts: the oscillator, 
+escapement, gear box, main spring, and display. three of our group members worked on the gear train, while my partner and I worked on the rest of the clock. 
+I designed our oscillating mass module, the mechanism which controls the rate of ticking in the clock. I also designed our 
+main spring, which powered the clock, and then became instrumental to the display drastically simplifying our design. Rather 
+than creating an entire display module which would have to connect to the gear box and travel around the main spring,
+I realized that we could simply connect the output of the main spring, which was controlled by the gear box,
+to an encoder wheel, creating the proper displayed time in an extremly simplistic manner. 
+
 Main Spring Assembly
 {: style="text-align: center;"}
 ![Main_spring_assembly](/assets/img/spring.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
 
-Video Demonstration of our Marine Chronometer Made by my Partner Juan Miche Rosales
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WmkQ7Sj34JA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
