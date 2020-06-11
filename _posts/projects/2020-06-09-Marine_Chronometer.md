@@ -46,14 +46,14 @@ Because modules could only interact with those above and below, their order was 
 ordering modules so that each could run souly off the modules directly connected to it. This allowed us to create an 
 asthetically pleasing clock that was compact and easily desplayable.
 
-CAD Assembly
-{: style="text-align: center;"}
-![Chassis cad](/assets/img/assembly.png){:height="50%" width="50%"}
-{: style="text-align: center;"}
-
 Escapement Module
 {: style="text-align: center;"}
 ![Escapement_Module](/assets/img/oscillator.png){:height="50%" width="50%"}
+{: style="text-align: center;"}
+
+Main Spring Assembly
+{: style="text-align: center;"}
+![Main_spring_assembly](/assets/img/spring.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
 
 When it came to designing the parts of the clock, I divided the clock into five different parts: the oscillator, 
@@ -64,10 +64,7 @@ than creating an entire display module which would have to connect to the gear b
 I realized that we could simply connect the output of the main spring, which was controlled by the gear box,
 to an encoder wheel, creating the proper displayed time in an extremly simplistic manner. 
 
-Main Spring Assembly
+CAD Assembly
 {: style="text-align: center;"}
-![Main_spring_assembly](/assets/img/spring.png){:height="50%" width="50%"}
+![Chassis cad](/assets/img/assembly.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
-
-
-
