@@ -2,7 +2,7 @@
 layout: default
 title:  Chronometer
 date:   2020-06-09 12:00:00
-logo: /assets/img/clock.png
+logo: /assets/img/clock.JPG
 logo_options: width="600px"
 tags: [project]
 published: true
@@ -31,7 +31,7 @@ for designing a chornometer with the “most risky, cutting edge, and out of the
 
 Final Marine Chronometer On Test Setup
 {: style="text-align: center;"}
-![gripper in action](/assets/img/clock.png){:height="75%" width="75%"}
+![gripper in action](/assets/img/clock.JPG){:height="75%" width="75%"}
 {: style="text-align: center;"}
 
 ## My Work
@@ -60,13 +60,14 @@ CAD Assembly
 
 Escapement Module
 {: style="text-align: center;"}
-![Chassis cad](/assets/img/oscillator.png){:height="75%" width="75%"}
+![Escapement_Module](/assets/img/oscillator.png){:height="75%" width="75%"}
 {: style="text-align: center;"}
 
 Main Spring Assembly
 {: style="text-align: center;"}
-![Chassis cad](/assets/img/spring.png){:height="75%" width="75%"}
+![Main_spring_assembly](/assets/img/spring.png){:height="75%" width="75%"}
 {: style="text-align: center;"}
 
 Video Demonstration of our Marine Chronometer Made by my Partner Juan Miche Rosales
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WmkQ7Sj34JA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{: style="text-align: center;"}
