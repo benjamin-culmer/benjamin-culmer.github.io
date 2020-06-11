@@ -2,7 +2,7 @@
 layout: default
 title:  Chronometer
 date:   2020-06-09 12:00:00
-logo: /assets/img/clock.JPG
+logo: /assets/img/clock.png
 logo_options: width="600px"
 tags: [project]
 published: true
@@ -32,7 +32,7 @@ for designing a chronometer with the “most risky, cutting edge, and out of the
 
 Final Marine Chronometer On Test Setup
 {: style="text-align: center;"}
-![gripper in action](/assets/img/clock.JPG){:height="50%" width="50%"}
+![gripper in action](/assets/img/clock.png){:height="50%" width="50%"}
 {: style="text-align: center;"}
 
 ## My Work
