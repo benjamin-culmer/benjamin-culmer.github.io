@@ -37,7 +37,7 @@ Final Marine Chronometer On Test Setup
 
 ## My Work
 From the start, I was voted my groups team leader. As a result, I was in charge of communication with the instructors, TAs,
-work delegation, and timeline management. Our overall design focused on modularity
+work delegation, timeline management, and managed the overall assembly. Our overall design focused on modularity
 and simplicity; all parts were either press fit or snapped together through proper tolerancing. We wanted our clock as modular as possible allowing the sub-assemblies made by different people to be easily combined in the final fabrication.
 The final design was unique in that all modules were concentric and stacked one above each other with a single input and
 a single output between each module. The innovation coming from the methods of translating motion across the entire design. 
