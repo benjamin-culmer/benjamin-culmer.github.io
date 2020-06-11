@@ -3,7 +3,7 @@ layout: default
 title:  Chronometer
 date:   2020-06-09 12:00:00
 logo: /assets/img/clock.png
-logo_options: width="600px"
+logo_options: width="400px"
 tags: [project]
 published: true
 ---
@@ -32,7 +32,7 @@ for designing a chronometer with the “most risky, cutting edge, and out of the
 
 Final Marine Chronometer On Test Setup
 {: style="text-align: center;"}
-![clock](/assets/img/clock.png){:height="50%" width="50%"}
+![clock](/assets/img/clock.png){:height="40%" width="40%"}
 {: style="text-align: center;"}
 
 ## My Work
@@ -66,5 +66,5 @@ to an encoder wheel, creating the proper displayed time in an extremely simplist
 
 CAD Assembly
 {: style="text-align: center;"}
-![Chassis cad](/assets/img/assembly.png){:height="50%" width="50%"}
+![Chassis cad](/assets/img/assembly.png){:height="40%" width="40%"}
 {: style="text-align: center;"}
