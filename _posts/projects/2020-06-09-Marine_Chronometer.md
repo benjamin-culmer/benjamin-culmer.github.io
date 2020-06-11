@@ -15,14 +15,13 @@ published: true
 - Created the overall design of the chronometer, building a modular aesthetically pleasing displayable product
 - Earned an award for designing a chronometer with the “most risky, cutting edge, and out of the box design innovations”
 
-Video Demonstration of our Marine Chronometer Made by my Partner Juan Miche Rosales
+Video Demonstration of our Marine Chronometer Made by my Group Member Juan Miche Rosales
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WmkQ7Sj34JA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Overview
 For my final term, I took a graduate course where I was part of a group of five engineers tasked with designing and byilding
-a marine chronometer from scratch. Dartmouth College provided all of us with a 3D printer and access to 3DExperience, a
-web based CAD service. The goal of the competition was to built a working chronometer capable of running for at least 10 seconds
-achieving ±1 second precision. Our group achieved this specification and had a maximum run time of 3 minutes.
+a marine chronometer made entirely from parts we designed and made. Dartmouth College provided all of us with a 3D printer and access to 3DExperience, a
+web based CAD service. The goal of the competition was to build a working chronometer capable of running for at least 10 seconds achieving ±1 second precision. Our group achieved this specification and had a maximum run time of 3 minutes.
 The clocks were then tested for their ability to cope with the seas by running on the print 
 bed of our 3D printers with gcode written by the instructors to sway the chornometer back and forth. They were tested for
 how long they could run on the bed as well as their precision during the run. Data was acquired via an arduino and encoder 
