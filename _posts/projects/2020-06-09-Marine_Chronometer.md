@@ -15,6 +15,7 @@ published: true
 - Created the overall design of the chronometer, building a modular aesthetically pleasing displayable product
 - Earned an award for designing a chronometer with the “most risky, cutting edge, and out of the box design innovations”
 
+## Video
 Video Demonstration of our Marine Chronometer Made by Group Member Juan Miche Rosales
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WmkQ7Sj34JA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
