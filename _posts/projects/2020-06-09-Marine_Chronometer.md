@@ -9,7 +9,7 @@ published: true
 ---
 
 ## Highlights
-- Designed a complete working marine chronometer in xDesign (CAD) made entirely of group designed parts
+- Designed both a complete working marine chronometer and its components in xDesign (CAD)
 - 3D printed the marine chronometer using PLA, achieving ±1 second precision over 10 seconds
 - Voted group leader: communicated with TAs, divided work, assigned tasks, troubleshot issues, and managed overall assembly
 - Created the overall design of the chronometer, building a modular aesthetically pleasing displayable product
