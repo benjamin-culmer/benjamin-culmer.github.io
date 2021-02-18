@@ -15,7 +15,7 @@ I also loved and will miss the challenges that playing football as a student ath
 {: style="text-align: center;"}
 
 ## Free Time
-Some of my passions include: nature, music, and cars. Growing up, I was always in the woods either fishing, mountain biking, or exploring. Since moving to harrisonburg I have begun backpacking throughout the national forests in the area. 
+Some of my passions include: nature, music, and cars. Growing up, I was always in the woods either fishing, mountain biking, or exploring. Since moving to harrisonburg, I have begun backpacking throughout the national forests in the area no matter the weather. 
 
 ![winter](/assets/img/winter.JPG){:  height="38.5%" width="37.5%"}
 {: style="text-align: center;"}
