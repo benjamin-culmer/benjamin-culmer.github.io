@@ -13,7 +13,7 @@ Hello World
 
 My name is Ben Culmer. I was born and raised in Northern Virginia. Since a young age, I have been fascinated by how mechanical parts function. 
 I brought this interest to college and became a mechanical engineer. Through this process, I learned that I love designing parts that meet rigid specifications and then getting my hands dirty by building my design. 
-I graduatee in June of 2020 with both a Bachelor of Arts and a Bachelor of Engineering from Dartmouth College which I accomplished while playing football and finishing my senior season as Ivy League Champions. After graduating I became an operations engineer.
+I graduatee in June of 2020 with both a Bachelor of Arts and a Bachelor of Engineering from Dartmouth College which I accomplished while playing football and finishing my senior season as Ivy League Champions. After graduating I became an operations engineer for Merck.
 
 Throughout my time as an aspiring engineer, I have been given three pieces of advice that I take to heart and let guide me through my work: establish a reputation, be simplistic, and test often. 
 The first was from a career engineer who told me to establish and maintain a reputation for doing quality work in a safe manner. This is my goal in all of my work. 
